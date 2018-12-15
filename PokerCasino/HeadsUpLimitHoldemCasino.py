@@ -1,10 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Thu Dec 13 23:15:28 2018
-
-@author: squas
-"""
-
 from treys import Card
 from treys import Evaluator
 from treys import Deck
