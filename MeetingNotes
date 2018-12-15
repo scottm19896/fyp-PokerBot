@@ -15,3 +15,26 @@ Main Points for next meeting:
 •	Setting up bot shells for comparing neural nets.
 •	CFR- Reading and practice
 •	Lay out my bot strategies, what I wish to achieve.
+
+Date: 05/11/18
+Explained some of the research I am doing. Finished my bot shell with space for neural networks
+Explained the comparison approach I hope to take with honest/dishonest bot.
+
+Main Points for next meeting:
+•	Finish implementing honest dishonest bots.
+•	Research CFR by alberta and Libratus to understand Limitations
+•	Research other algorithms that might prove succesful
+
+Date: 19/11/18
+Oulined some of the points I found about CFR
+Main Points for next meeting:
+•	Decide approach to take i.e keep Researching PokerCNN, and Case-Based Reasoning
+•	Decide what to accomplish from the project.(My comparison idea for future final year projects)
+
+Date: 03/12/18
+Continued to discuss project.Outlined my progress and explained why I have chosen PokerCNN over CFR.
+Main Points for next meeting:
+•	Finish Interim Report for feedback.Outline is on moodle.
+•	Continue to work on PokerCNN-Working with convolutional neural network
+•	Start work on pure CFR algorithm-Using One layer of abstraction
+
