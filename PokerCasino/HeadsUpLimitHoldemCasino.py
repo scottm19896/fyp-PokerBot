@@ -206,5 +206,6 @@ class Game:
             no_of_games-=1
     
                 
-new_game=Game()
-hands=new_game.PlayGame(no_of_games=5)
+if __name__ == '__main__':                
+    new_game=Game()
+    hands=new_game.PlayGame(no_of_games=5)
