@@ -1,9 +1,10 @@
 # -*- coding: utf-8 -*-
+"""
+Created on Sun Feb  3 22:33:26 2019
 
-import random
-
+@author: squas
+"""
 class Bot:
-    #Self.X stores bot type --> 'c' CALL, 'f' FOLD, 'r' RAISE , Mixture-> Random Decision Making
     def __init__(self):
         self.hand=[]
         self.board=[]
@@ -12,11 +13,10 @@ class Bot:
         self.hand_number=0
         self.dealer=False
         self.seat=0
-        self.X = ''
-    def add_cards(self,card):
-        self.hand=card
+    def add_card(self,card):
+        self.hand.append(card)
     def add_board(self, card):
-        self.board=card
+        self.board.append(card)
     def set_position(self,char_index):
         self.position=char_index
     def update_stage(self,stage):
@@ -25,8 +25,3 @@ class Bot:
         self.hand_number=number
     def set_seat(self,seat):
         self.seat=seat
-    def MakeDecision(self,pot,stage,bet_size):
-        #Works off given X type
-        return random.choice(self.X)
-    def Game_Over(self,i_won,player_fold,games_left):
-        return

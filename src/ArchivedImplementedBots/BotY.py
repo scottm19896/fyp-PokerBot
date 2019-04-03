@@ -1,9 +1,19 @@
 # -*- coding: utf-8 -*-
+"""
+Created on Wed Mar 20 21:48:57 2019
 
+@author: squas
+"""
+
+# -*- coding: utf-8 -*-
+"""
+Created on Sun Feb  3 22:33:26 2019
+
+@author: squas
+"""
 import random
 
 class Bot:
-    #Self.X stores bot type --> 'c' CALL, 'f' FOLD, 'r' RAISE , Mixture-> Random Decision Making
     def __init__(self):
         self.hand=[]
         self.board=[]
@@ -12,7 +22,6 @@ class Bot:
         self.hand_number=0
         self.dealer=False
         self.seat=0
-        self.X = ''
     def add_cards(self,card):
         self.hand=card
     def add_board(self, card):
@@ -26,7 +35,4 @@ class Bot:
     def set_seat(self,seat):
         self.seat=seat
     def MakeDecision(self,pot,stage,bet_size):
-        #Works off given X type
-        return random.choice(self.X)
-    def Game_Over(self,i_won,player_fold,games_left):
-        return
+        return random.choice('r')
