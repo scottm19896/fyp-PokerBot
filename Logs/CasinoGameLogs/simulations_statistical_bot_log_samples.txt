@@ -1,0 +1,582 @@
+0
+
+Player 1 : c
+Player 2 : c
+Preflop Pot:20.0
+
+Flop: [9♦],[8♥],[4♣] 
+
+Player 2 : r
+Player 1 : c
+Flop Pot:60.0
+
+Turn: [5♣] 
+Player 2 : Folded!
+Turn Pot:60.0
+
+PLAYER_1:        [2♠],[9♥] 
+PLAYER_2:        [Q♠],[J♦] 
+Board:   [9♦],[8♥],[4♣],[5♣] 
+Player 2 Folds -> Player 1 is the winner
+Player 1 Stack: 330.0
+Player 2 Stack: 270.0
+--------------------------------------------------------------------------
+
+1
+
+Player 2 : c
+Player 1 : c
+Preflop Pot:20.0
+
+Flop: [2♦],[4♦],[3♥] 
+
+Player 1 : c
+Player 2 : r
+Player 1 : c
+Flop Pot:60.0
+
+Turn: [A♦] 
+
+Player 1 : c
+Player 2 : r
+Player 1 : c
+Turn Pot:140.0
+
+River: [8♠] 
+
+Player 1 : c
+Player 2 : r
+Player 1 : c
+River Pot:220.0
+
+Showdown Pot:220.0
+
+========== FLOP ==========
+Player 1 hand = Pair, percentage rank among all hands = 0.24618064861967304
+Player 2 hand = Pair, percentage rank among all hands = 0.3775127311712677
+Player 2 hand is currently winning.
+
+========== TURN ==========
+Player 1 hand = Pair, percentage rank among all hands = 0.25837577057089256
+Player 2 hand = Pair, percentage rank among all hands = 0.39989279013669254
+Player 2 hand is currently winning.
+
+========== RIVER ==========
+Player 1 hand = Pair, percentage rank among all hands = 0.2589118198874296
+Player 2 hand = Pair, percentage rank among all hands = 0.40190297507370676
+
+========== HAND OVER ==========
+Player 2 is the winner with a Pair
+
+PLAYER_1:        [K♠],[4♠] 
+PLAYER_2:        [9♠],[9♦] 
+Board:   [2♦],[4♦],[3♥],[A♦],[8♠] 
+Player 1 Stack: 220.0
+Player 2 Stack: 380.0
+0
+
+Player 1 : c
+Player 2 : c
+Preflop Pot:20.0
+
+Flop: [8♣],[9♦],[2♥] 
+
+Player 2 Folds -> Player 1 is the winner
+Player 1 Stack: 200.0
+Player 2 Stack: 400.0
+--------------------------------------------------------------------------
+
+0
+
+Player 1 : c
+Player 2 : c
+Preflop Pot:20.0
+
+Flop: [7♦],[J♠],[7♠] 
+
+Player 2 : r
+Player 1 : c
+Flop Pot:60.0
+
+Turn: [J♣] 
+
+Player 2 : c
+Player 1 : c
+Turn Pot:60.0
+
+River: [4♠] 
+
+Player 2 : c
+Player 1 : c
+River Pot:60.0
+
+Showdown Pot:60.0
+
+========== FLOP ==========
+Player 1 hand = Pair, percentage rank among all hands = 0.32779415706244974
+Player 2 hand = Pair, percentage rank among all hands = 0.3280621817207183
+Player 2 hand is currently winning.
+
+========== TURN ==========
+Player 1 hand = Two Pair, percentage rank among all hands = 0.6155186277137497
+Player 2 hand = Two Pair, percentage rank among all hands = 0.6156526400428839
+Player 2 hand is currently winning.
+
+========== RIVER ==========
+Player 1 hand = Two Pair, percentage rank among all hands = 0.6155186277137497
+Player 2 hand = Two Pair, percentage rank among all hands = 0.6156526400428839
+
+========== HAND OVER ==========
+Player 2 is the winner with a Two Pair
+
+PLAYER_1:        [5♦],[8♦] 
+PLAYER_2:        [9♣],[2♦] 
+Board:   [7♦],[J♠],[7♠],[J♣],[4♠] 
+Player 1 Stack: 170.0
+Player 2 Stack: 430.0
+1
+
+Player 2 : c
+Player 1 : c
+Preflop Pot:20.0
+
+Flop: [2♦],[K♣],[8♣] 
+
+Player 1 : c
+Player 2 : r
+Player 1 : c
+Flop Pot:60.0
+
+Turn: [4♠] 
+
+Player 1 : c
+Player 2 : c
+Turn Pot:60.0
+
+River: [J♥] 
+
+Player 1 : c
+Player 2 : c
+River Pot:60.0
+
+Showdown Pot:60.0
+
+========== FLOP ==========
+Player 1 hand = High Card, percentage rank among all hands = 0.15183596890913964
+Player 2 hand = High Card, percentage rank among all hands = 0.06472795497185746
+Player 1 hand is currently winning.
+
+========== TURN ==========
+Player 1 hand = High Card, percentage rank among all hands = 0.15210399356740822
+Player 2 hand = High Card, percentage rank among all hands = 0.06499597963012593
+Player 1 hand is currently winning.
+
+========== RIVER ==========
+Player 1 hand = High Card, percentage rank among all hands = 0.16269096756901635
+Player 2 hand = High Card, percentage rank among all hands = 0.08228357008844811
+
+========== HAND OVER ==========
+Player 1 is the winner with a High Card
+
+PLAYER_1:        [3♦],[A♥] 
+PLAYER_2:        [7♣],[5♦] 
+Board:   [2♦],[K♣],[8♣],[4♠],[J♥] 
+Player 1 Stack: 200.0
+Player 2 Stack: 400.0
+0
+
+Player 1 : c
+Player 2 : c
+Preflop Pot:20.0
+
+Flop: [3♠],[J♦],[5♥] 
+Player 2 : Folded!
+Flop Pot:20.0
+
+PLAYER_1:        [K♦],[T♠] 
+PLAYER_2:        [Q♦],[K♣] 
+Board:   [3♠],[J♦],[5♥] 
+Player 2 Folds -> Player 1 is the winner
+Player 1 Stack: 210.0
+Player 2 Stack: 390.0
+--------------------------------------------------------------------------
+
+1
+
+Player 2 : c
+Player 1 : c
+Preflop Pot:20.0
+
+Flop: [6♠],[K♥],[9♦] 
+
+Player 1 : c
+Player 2 : r
+Player 1 : c
+Flop Pot:60.0
+
+Turn: [J♣] 
+
+Player 1 : c
+Player 2 : r
+Player 1 : c
+Turn Pot:140.0
+
+River: [2♠] 
+
+Player 1 : c
+Player 2 : r
+Player 1 : c
+River Pot:220.0
+
+Showdown Pot:220.0
+
+========== FLOP ==========
+Player 1 hand = High Card, percentage rank among all hands = 0.16001072098633073
+Player 2 hand = Pair, percentage rank among all hands = 0.42642723130528004
+Player 2 hand is currently winning.
+
+========== TURN ==========
+Player 1 hand = High Card, percentage rank among all hands = 0.1651031894934334
+Player 2 hand = Pair, percentage rank among all hands = 0.42776735459662285
+Player 2 hand is currently winning.
+
+========== RIVER ==========
+Player 1 hand = High Card, percentage rank among all hands = 0.1651031894934334
+Player 2 hand = Pair, percentage rank among all hands = 0.42776735459662285
+
+========== HAND OVER ==========
+Player 2 is the winner with a Pair
+
+PLAYER_1:        [A♠],[T♥] 
+PLAYER_2:        [T♣],[T♦] 
+Board:   [6♠],[K♥],[9♦],[J♣],[2♠] 
+Player 1 Stack: 100.0
+Player 2 Stack: 500.0
+0
+
+Player 1 : c
+Player 2 : c
+Preflop Pot:20.0
+
+Flop: [T♠],[3♣],[7♦] 
+
+Player 2 : c
+Player 1 : c
+Flop Pot:20.0
+
+Turn: [Q♠] 
+
+Player 2 : r
+Player 1 : c
+Turn Pot:100.0
+
+River: [6♦] 
+
+Player 2 : c
+Player 1 : c
+River Pot:100.0
+
+Showdown Pot:100.0
+
+========== FLOP ==========
+Player 1 hand = High Card, percentage rank among all hands = 0.04851246314660951
+Player 2 hand = High Card, percentage rank among all hands = 0.029750737067810284
+Player 1 hand is currently winning.
+
+========== TURN ==========
+Player 1 hand = Pair, percentage rank among all hands = 0.47694987938890376
+Player 2 hand = High Card, percentage rank among all hands = 0.060037523452157626
+Player 1 hand is currently winning.
+
+========== RIVER ==========
+Player 1 hand = Pair, percentage rank among all hands = 0.47694987938890376
+Player 2 hand = High Card, percentage rank among all hands = 0.060037523452157626
+
+========== HAND OVER ==========
+Player 1 is the winner with a Pair
+
+PLAYER_1:        [Q♦],[9♥] 
+PLAYER_2:        [J♣],[8♣] 
+Board:   [T♠],[3♣],[7♦],[Q♠],[6♦] 
+Player 1 Stack: 150.0
+Player 2 Stack: 450.0
+1
+
+Player 2 : c
+Player 1 : c
+Preflop Pot:20.0
+
+Flop: [2♥],[4♥],[Q♥] 
+
+Player 1 : c
+Player 2 : r
+Player 1 : c
+Flop Pot:60.0
+
+Turn: [A♠] 
+
+Player 1 : c
+Player 2 : r
+Player 1 : c
+Turn Pot:140.0
+
+River: [7♥] 
+
+Player 1 : c
+Player 2 : r
+Player 1 : c
+River Pot:220.0
+
+Showdown Pot:220.0
+
+========== FLOP ==========
+Player 1 hand = High Card, percentage rank among all hands = 0.10050924685071028
+Player 2 hand = Pair, percentage rank among all hands = 0.48217636022514077
+Player 2 hand is currently winning.
+
+========== TURN ==========
+Player 1 hand = High Card, percentage rank among all hands = 0.17032967032967028
+Player 2 hand = Pair, percentage rank among all hands = 0.4943714821763602
+Player 2 hand is currently winning.
+
+========== RIVER ==========
+Player 1 hand = Flush, percentage rank among all hands = 0.8763066202090593
+Player 2 hand = Pair, percentage rank among all hands = 0.4947735191637631
+
+========== HAND OVER ==========
+Player 1 is the winner with a Flush
+
+PLAYER_1:        [J♣],[K♥] 
+PLAYER_2:        [K♣],[Q♦] 
+Board:   [2♥],[4♥],[Q♥],[A♠],[7♥] 
+Player 1 Stack: 260.0
+Player 2 Stack: 340.0
+0
+
+Player 1 : c
+Player 2 : c
+Preflop Pot:20.0
+
+Flop: [2♣],[5♠],[K♣] 
+
+Player 2 : r
+Player 1 : c
+Flop Pot:60.0
+
+Turn: [J♥] 
+
+Player 2 : r
+Player 1 : c
+Turn Pot:140.0
+
+River: [2♦] 
+
+Player 2 : r
+Player 1 : c
+River Pot:220.0
+
+Showdown Pot:220.0
+
+========== FLOP ==========
+Player 1 hand = High Card, percentage rank among all hands = 0.07049048512463152
+Player 2 hand = Pair, percentage rank among all hands = 0.49718574108818014
+Player 2 hand is currently winning.
+
+========== TURN ==========
+Player 1 hand = High Card, percentage rank among all hands = 0.08590190297507372
+Player 2 hand = Pair, percentage rank among all hands = 0.5084427767354597
+Player 2 hand is currently winning.
+
+========== RIVER ==========
+Player 1 hand = Pair, percentage rank among all hands = 0.19190565532028947
+Player 2 hand = Two Pair, percentage rank among all hands = 0.6365585633878317
+
+========== HAND OVER ==========
+Player 2 is the winner with a Two Pair
+
+PLAYER_1:        [T♦],[3♣] 
+PLAYER_2:        [K♠],[7♣] 
+Board:   [2♣],[5♠],[K♣],[J♥],[2♦] 
+Player 1 Stack: 150.0
+Player 2 Stack: 450.0
+1
+
+Player 2 : c
+Player 1 : c
+Preflop Pot:20.0
+
+Flop: [Q♠],[Q♥],[9♠] 
+
+Player 1 : c
+Player 2 : r
+Player 1 : c
+Flop Pot:60.0
+
+Turn: [2♥] 
+
+Player 1 : c
+Player 2 : r
+Player 1 : c
+Turn Pot:140.0
+
+River: [7♥] 
+
+Player 1 : c
+Player 2 : r
+Player 1 : c
+River Pot:220.0
+
+Showdown Pot:220.0
+
+========== FLOP ==========
+Player 1 hand = Pair, percentage rank among all hands = 0.4938354328598231
+Player 2 hand = Two Pair, percentage rank among all hands = 0.6318681318681318
+Player 2 hand is currently winning.
+
+========== TURN ==========
+Player 1 hand = Pair, percentage rank among all hands = 0.4938354328598231
+Player 2 hand = Two Pair, percentage rank among all hands = 0.6318681318681318
+Player 2 hand is currently winning.
+
+========== RIVER ==========
+Player 1 hand = Flush, percentage rank among all hands = 0.9313856874832485
+Player 2 hand = Two Pair, percentage rank among all hands = 0.6318681318681318
+
+========== HAND OVER ==========
+Player 1 is the winner with a Flush
+
+PLAYER_1:        [J♥],[A♥] 
+PLAYER_2:        [8♥],[9♦] 
+Board:   [Q♠],[Q♥],[9♠],[2♥],[7♥] 
+Player 1 Stack: 260.0
+Player 2 Stack: 340.0
+0
+
+Player 1 : c
+Player 2 : c
+Preflop Pot:20.0
+
+Flop: [A♣],[7♥],[T♣] 
+
+Player 2 : r
+Player 1 : c
+Flop Pot:60.0
+
+Turn: [2♦] 
+
+Player 2 : r
+Player 1 : c
+Turn Pot:140.0
+
+River: [Q♠] 
+
+Player 2 : r
+Player 1 : c
+River Pot:220.0
+
+Showdown Pot:220.0
+
+========== FLOP ==========
+Player 1 hand = Pair, percentage rank among all hands = 0.34642187081211473
+Player 2 hand = Pair, percentage rank among all hands = 0.34642187081211473
+Players [1, 2] are tied for the lead.
+
+========== TURN ==========
+Player 1 hand = Pair, percentage rank among all hands = 0.34642187081211473
+Player 2 hand = Pair, percentage rank among all hands = 0.34642187081211473
+Players [1, 2] are tied for the lead.
+
+========== RIVER ==========
+Player 1 hand = Two Pair, percentage rank among all hands = 0.6294559099437148
+Player 2 hand = Two Pair, percentage rank among all hands = 0.6294559099437148
+
+========== HAND OVER ==========
+Players [1, 2] tied for the win with a Two Pair
+
+PLAYER_1:        [Q♥],[7♣] 
+PLAYER_2:        [Q♦],[7♠] 
+Board:   [A♣],[7♥],[T♣],[2♦],[Q♠] 
+Player 1 Stack: 260.0
+Player 2 Stack: 340.0
+1
+
+Player 2 : c
+Player 1 : c
+Preflop Pot:20.0
+
+Flop: [4♥],[Q♦],[7♦] 
+
+Player 1 : c
+Player 2 : r
+Player 1 : c
+Flop Pot:60.0
+
+Turn: [3♠] 
+
+Player 1 : c
+Player 2 : c
+Turn Pot:60.0
+
+River: [K♣] 
+
+Player 1 : c
+Player 2 : c
+River Pot:60.0
+
+Showdown Pot:60.0
+
+========== FLOP ==========
+Player 1 hand = High Card, percentage rank among all hands = 0.09153042079871343
+Player 2 hand = High Card, percentage rank among all hands = 0.03430715625837577
+Player 1 hand is currently winning.
+
+========== TURN ==========
+Player 1 hand = High Card, percentage rank among all hands = 0.09153042079871343
+Player 2 hand = High Card, percentage rank among all hands = 0.03444116858751001
+Player 1 hand is currently winning.
+
+========== RIVER ==========
+Player 1 hand = Pair, percentage rank among all hands = 0.5134012329134281
+Player 2 hand = High Card, percentage rank among all hands = 0.09153042079871343
+
+========== HAND OVER ==========
+Player 1 is the winner with a Pair
+
+PLAYER_1:        [K♥],[6♣] 
+PLAYER_2:        [6♥],[2♦] 
+Board:   [4♥],[Q♦],[7♦],[3♠],[K♣] 
+Player 1 Stack: 290.0
+Player 2 Stack: 310.0
+0
+
+Player 1 : c
+Player 2 : c
+Preflop Pot:20.0
+
+Flop: [8♦],[A♣],[J♠] 
+
+Player 2 : r
+Player 1 : c
+Flop Pot:60.0
+
+Turn: [K♣] 
+Player 2 : Folded!
+Turn Pot:60.0
+
+PLAYER_1:        [T♦],[K♠] 
+PLAYER_2:        [6♦],[T♥] 
+Board:   [8♦],[A♣],[J♠],[K♣] 
+Player 2 Folds -> Player 1 is the winner
+Player 1 Stack: 320.0
+Player 2 Stack: 280.0
+--------------------------------------------------------------------------
+
+1
+
+Player 2 : c
+Player 1 : c
+Preflop Pot:20.0
+
+Flop: [3♠],[8♠],[Q♣] 
+
+Player 1 : c
